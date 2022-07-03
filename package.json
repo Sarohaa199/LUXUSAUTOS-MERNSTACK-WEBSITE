@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.11",
+    "nodemon": "^2.0.14",
+    "razorpay": "^2.8.2",
+    "react": "^18.2.0",
+    "react-hook-form": "^7.33.1",
+    "redux": "^4.1.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0",
+    "uuid": "^8.3.2",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "mern_stackwebsite-luxusautos",
+  "version": "1.0.0",
+  "main": "db.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
